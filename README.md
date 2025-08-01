@@ -1,4 +1,4 @@
-# Day 1 – 30 July 2025
+# Day 1 (30/07/2025)
 
 Welcome to my induction journey at GNDEC Ludhiana! Here’s a breakdown of how Day 1 unfolded, moment by moment.
 
