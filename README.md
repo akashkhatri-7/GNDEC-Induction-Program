@@ -1,5 +1,6 @@
-# Day 1 – 30 July 2025  
 ### GNDEC Ludhiana — Induction Program Report
+
+# Day 1 (30/08/2025) 
 
 ---
 
