@@ -17,7 +17,7 @@
 
 ##  Induction Day Summary
 
-### 08:30 AM – 📿 Visit to Gurdwara Sahib  
+### 08:30 AM –  Visit to Gurdwara Sahib  
 The day began with a peaceful visit to the **Gurdwara Sahib** located inside the GNDEC campus. Students gathered with excitement and reverence, marking the beginning of their college journey in a spiritual atmosphere.
 
 ---
