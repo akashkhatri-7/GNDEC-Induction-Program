@@ -6,7 +6,7 @@
 
 ###  Student Details
 
-- **Name:** Akash Khatri  
+- **Name:** Akash Khatri 
 - **Father's Name:** Harihar Khatri  
 - **Branch:** Computer Science & Engineering (CSE)  
 - **Registration Number:** 25106757  
