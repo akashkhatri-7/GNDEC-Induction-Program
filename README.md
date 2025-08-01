@@ -1,2 +1,1 @@
-# Induction-Program-
-Btech CSE 1st year
+# Day 1 (31/07/2025)
