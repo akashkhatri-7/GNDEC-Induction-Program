@@ -96,6 +96,3 @@ The formal induction session was held in the college auditorium and hosted by **
 - Be sincere, consistent, and passionate about your domain  
 
 ---
-
-> **Reflection:**  
-Day 1 provided us a powerful foundation — not just of GNDEC’s vision, but of how we must shape our next four years. From technical growth to mindset building, every speaker added value that will help us become better engineers and responsible individuals.
