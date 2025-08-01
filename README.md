@@ -1,6 +1,6 @@
 ### GNDEC Ludhiana — Induction Program Report
 
-# Day 1 (30/08/2025) 
+# Day 1  (30/08/2025)
 
 ---
 
@@ -17,82 +17,82 @@
 
 ## 🗓️ Induction Day Summary
 
-### 08:30 – 09:30 AM 🏛 Visit to Gurudwara Sahib  
-We began the day with a peaceful visit to the Gurudwara Sahib situated within the GNDEC campus. It was a spiritually grounding moment to kickstart our journey.
+### 08:30 AM – 📿 Visit to Gurdwara Sahib  
+The day began with a peaceful visit to the **Gurdwara Sahib** located inside the GNDEC campus. Students gathered with excitement and reverence, marking the beginning of their college journey in a spiritual atmosphere.
 
 ---
 
-### 10:30 – 12:30 PM 🎤 Induction Seminar in the Auditorium  
-The formal induction session was held in the college auditorium and hosted by **Harsimran ma’am**. Several dignitaries and professors addressed us. Below is the summary of the key speakers:
+### 09:40 AM – ☕ Refreshment Break  
+After returning from the Gurdwara, we were offered a warm welcome with **refreshments** including *pakodas, gulab jamun, chai*, and *cold drinks*. It gave us a chance to interact informally with fellow students and settle into the day.
 
 ---
 
-#### 1️⃣ **[First Speaker]**  
-**Topic:** About GNDEC’s Establishment  
-- History and legacy of GNDEC  
-- Achievements of the institute  
-- GNDEC’s contribution to society and students' growth  
-- Overview of campus life and available facilities  
+### 10:30 AM – 🎓 Formal Induction Program (Auditorium)
+
+#### 🧑‍🏫 **Mr. Harsimran Singh Jaggi**  
+- Welcomed students and introduced the **legacy, vision, and values** of GNDEC.  
+- Talked about the institute’s **academic excellence**, research environment, and student-focused approach.  
+- Gave a tour of the campus offerings and available facilities.
 
 ---
 
-#### 2️⃣ **Dr. Harpreet Kaur**  
-**Topic:** Role of the First Year and Applied Science  
-- How the four years in college shape our future  
-- Applied Sciences as a bridge between school-level learning and core engineering subjects  
+#### 👨‍💻 **Alumni Interaction**  
+- **Mr. Sangam Arora** (CSE Topper, 2021–2025 | Placed at Arguesoft)  
+  - Shared his personal journey at GNDEC and motivated students to make the most of every opportunity.
+
+- **Mr. Arshpreet Singh** (IT Topper, 2021–2025 | Working at Airtel, Gurugram)  
+  - Talked about how GNDEC helped him transform from a student into a confident professional.
 
 ---
 
-#### 3️⃣ **Dr. Akshay Girdhar**  
-**Topic:** Life Beyond Engineering  
-- Importance of extracurriculars  
-- Developing discipline and balance through co-curricular involvement  
-- Encouragement to explore societies and clubs  
+#### 👩‍🔬 **Mrs. Harpreet Kaur Garewal**  
+- HOD of Applied Sciences  
+- Encouraged students to approach their first year as a foundation-building phase  
+- Spoke on bridging the gap between school and engineering academics
 
 ---
 
-#### 4️⃣ **Harleen Kaur**  
-**Topic:** Mindset and Purpose  
-- Build a strong and focused mindset  
-- Stay aligned with your goals — the universe supports those with purpose  
+#### 🎯 **Dr. Akshay Girdhar (Dean Academics)**  
+- Addressed the role of **extracurricular activities** in shaping a well-rounded engineer  
+- Emphasized **institutional culture**, and how to manage academics effectively
 
 ---
 
-#### 5️⃣ **Dr. Shehejpal (Principal)**  
-**Topic:** Engineering's Role in Society  
-- Engineers as builders of society  
-- The growing role of AI in industries  
-- Increasing competition in CSE and IT fields  
-- Emphasis on adding value to ourselves beyond academics  
+#### 💬 **Ms. Harleen Kaur Garewal (First-Year Student)**  
+- Gave a relatable, heartfelt speech  
+- Encouraged fellow students to be open, confident, and take the initiative in campus life
 
 ---
 
-#### 6️⃣ **Sri Ravinder Garg (Chief Engineer, Municipal Office)**  
-**Topic:** Personal Discipline  
-- Stay away from distractions and bad habits  
-- Work hard consistently throughout college  
-- Pray daily for mental and spiritual clarity  
+#### 🗣️ **Dr. Parminder Singh (Dean Student Welfare)**  
+- Delivered an inspiring talk on **student engagement**  
+- Shared how students can participate in societies and take leadership roles for personal growth
 
 ---
 
-#### 7️⃣ **Dr. Kulwinder Singh Maan (HOD, IT)**  
-**Topic:** CS vs IT – Clarification  
-- No need to differentiate between CS and IT  
-- Both offer equal opportunities if pursued sincerely  
+#### 🧠 **Dr. Sehajpal Singh (Principal)**  
+- Highlighted the **future of engineering**, especially in CS and AI domains  
+- Spoke about the increasing **competition** and the importance of **adding unique value** to ourselves  
+- Called students to be society-builders with a vision
 
 ---
 
-#### 8️⃣ **Ashok Singhla Sir (Financial Advisor)**  
-**Topic:** Financial Management  
-- Tips on managing tuition and hostel fees  
-- Information about educational loans  
-- Budgeting wisely during student life  
+### 👥 Guests of Honour
+
+#### 🏛️ **Shri Ravindra Garg**  
+- Chief Engineer, Municipal Corporation, Ludhiana  
+- Advised students to **stay focused**, avoid bad habits, and adopt daily spiritual or mental discipline
+
+#### 🛠️ **Engineer Rakesh Kumar**  
+- GNDEC Alumnus (1991 batch), now **ADC Ludhiana**  
+- His success story served as a motivating example of where hard work and education can lead
 
 ---
 
-#### 9️⃣ **Mr. Kesh Kumar (Deputy Commissioner)**  
-**Topic:** Aim for Excellence  
-- Whatever your field is, rise to the top in it  
-- Be sincere, consistent, and passionate about your domain  
+### 💰 Financial Awareness Session
+
+#### 💡 **Shri Ashok Singla (Financial Advisor)**  
+- Gave valuable tips on **managing tuition fees**, **educational loans**, and financial planning  
+- Encouraged smart money habits during the college years
 
 ---
