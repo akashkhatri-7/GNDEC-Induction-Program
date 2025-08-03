@@ -1,5 +1,4 @@
 ##  GNDEC Ludhiana — Induction Program Report
-
 ###  Student Details
 
 - **Name:** Akash Khatri 
@@ -10,10 +9,7 @@
 - **Email:** akhatri.rcf@gmail.com  
 
 # Day 1 (30/07/2025)
-
-
 ##  Induction Day Summary
-
 ### 08:30 AM –  Visit to Gurdwara Sahib  
 The day began with a peaceful visit to the **Gurdwara Sahib** located inside the GNDEC campus. Students gathered with excitement and reverence, marking the beginning of their college journey in a spiritual atmosphere.
 
