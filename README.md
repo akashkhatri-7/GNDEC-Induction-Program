@@ -1,4 +1,4 @@
-## Induction Diary
+# INDUCTION DIARY
 
 ### [Day 1 – 30 July 2025](Day-1/README.md)
 
