@@ -1,7 +1,4 @@
-#  GNDEC Ludhiana — Induction Program Report
-
-## Day 1 (30/07/2025)
-
+##  GNDEC Ludhiana — Induction Program Report
 
 ###  Student Details
 
@@ -11,6 +8,8 @@
 - **Registration Number:** 25106757  
 - **Mobile:** 7589421360  
 - **Email:** akhatri.rcf@gmail.com  
+
+## Day 1 (30/07/2025)
 
 
 ##  Induction Day Summary
