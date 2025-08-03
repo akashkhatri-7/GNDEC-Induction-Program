@@ -1,12 +1,4 @@
 ##  GNDEC Ludhiana — Induction Program Report
-###  Student Details
-
-- **Name:** Akash Khatri 
-- **Father's Name:** Harihar Khatri  
-- **Branch:** Computer Science & Engineering (CSE)  
-- **Registration Number:** 25106757  
-- **Mobile:** 7589421360  
-- **Email:** akhatri.rcf@gmail.com  
 
 # Day 1 (30/07/2025)
 ##  Induction Day Summary
