@@ -1,11 +1,6 @@
 # INDUCTION DIARY
 
-### [Day 1 – 30 July 2025](Day-1/README.md)
-
-# Day 1 – 30 July 2025  
-### My Induction Experience @ GNDEC
-
----
+# Day 1 (31/07/2025)
 
 **The day began at 8:30 AM with a peaceful visit to the Gurdwara Sahib on campus.** It was a spiritual start that brought calm and clarity to kick off this new chapter.
 
@@ -28,7 +23,3 @@ The stage was vibrant, and the lineup of speakers made a big impression:
 - **Shri Ashok Singla** — Practical tips on managing finances and loans during college life.
 
 ---
-
-**Takeaway:**  
-This wasn’t just a welcome — it was a wake-up call.  
-Day 1 reminded me that this place offers everything… if I’m ready to show up, stay disciplined, and grab the opportunities ahead.
