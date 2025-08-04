@@ -1,7 +1,10 @@
 # INDUCTION DIARY
 
-# Day 1 (31/07/2025)
 
+
+---
+# Day 1 (31/07/2025)
+---
 **The day began at 8:30 AM with a peaceful visit to the Gurdwara Sahib on campus.** It was a spiritual start that brought calm and clarity to kick off this new chapter.
 
 By 9:40 AM, we were served refreshments — chai, pakoras, gulab jamun — a warm welcome that gave us time to connect with our fellow freshers.
@@ -22,8 +25,11 @@ The stage was vibrant, and the lineup of speakers made a big impression:
 - **Er. Rakesh Kumar** (1991 GNDEC alumnus, ADC Ludhiana) — A living example of where this journey can lead.
 - **Shri Ashok Singla** — Practical tips on managing finances and loans during college life
 
-# Day 2 – (01/08/2025)
 
+
+---
+# Day 2 – (01/08/2025)
+---
 **The day kicked off at 9:30 AM with two seniors from the 3rd year conducting our English Proficiency Test.**  
 It lasted around 50 minutes and tested our grasp of basic grammar, comprehension, and vocabulary.
 
@@ -36,3 +42,42 @@ The session was insightful — covering how diet affects our focus, mood, energy
 At **2:00 PM**, we had our final session of the day:  
 **"Induction Activity Launch by the Causmic Club."**  
 The club introduced itself, shared upcoming plans, and officially launched the activity phase of our induction program. It was great to see how much student-driven energy exists on campus.
+
+
+
+
+---
+# Day 3 (02/08/2025) 
+---
+###  Before 9:00 AM – Auditorium Assembly  
+We reported to the **auditorium before 9:00 AM**, where we received initial instructions and a warm welcome from our **HOD**. It set the tone for a day full of insight and interaction.
+
+###  09:00 AM – 11:00 AM  
+###  Session by Dr. Jaswinder Singh — Science, Spirituality & Smiles  
+
+This was honestly one of the most **interesting and memorable sessions** of the induction so far.
+
+- **Dr. Jaswinder Singh** delivered a powerful lecture that blended **science, mathematics, spirituality, and humor** in a way we’d never seen before.
+- He talked about the deep meaning of "**Ek Onkar**" and its connection to **108 Bhaktis** — explaining that **1 = God, 0 = Us (Ego), 8 = Wealth**. That symbolism hit deep.
+- He performed live **science experiments** with **sound and light**, using them to explain meditation:  
+  > *“Close your eyes — and truly see. Close your ears — and truly listen.”*  
+- He even has a **portable science lab in his car**, which was honestly mind-blowing.
+- What I loved the most: **it never felt like a lecture** — it felt like he came to *talk to us*, not *teach us*. And that made all the difference.
+
+###  11:00 AM – 01:00 PM  
+###  Human Values Session with Dr. Priya Darshani  
+
+After the science session, **Dr. Priya Darshani ma'am** took over with a session on **Universal Human Values**.
+
+- She made the environment truly **interactive and open** — frequently asking for our opinions instead of expecting “yes ma’am” answers.
+- We discussed:
+  - The **importance of sharing your thoughts confidently**
+  - How to **introduce yourself effectively**
+  - Small but powerful ways to build **self-motivation**
+- She encouraged us to think for ourselves and not just agree passively — that level of respect made the session feel like a two-way conversation.
+
+
+
+
+
+
