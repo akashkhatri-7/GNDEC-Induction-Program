@@ -20,6 +20,19 @@ The stage was vibrant, and the lineup of speakers made a big impression:
 **Special guests included:**
 - **Shri Ravindra Garg** (Chief Engineer, Municipal Corp.) — “Stay focused. Avoid distractions. Stay grounded.”
 - **Er. Rakesh Kumar** (1991 GNDEC alumnus, ADC Ludhiana) — A living example of where this journey can lead.
-- **Shri Ashok Singla** — Practical tips on managing finances and loans during college life.
+- **Shri Ashok Singla** — Practical tips on managing finances and loans during college life
 
----
+# Day 2 – (01/08/2025)
+
+**The day kicked off at 9:30 AM with two seniors from the 3rd year conducting our English Proficiency Test.**  
+It lasted around 50 minutes and tested our grasp of basic grammar, comprehension, and vocabulary.
+
+Right after that, at **10:30 AM**, we had the **Maths Proficiency Test** — and to be honest, it felt a bit tougher than the English one. Definitely a wake-up call to brush up on fundamentals!
+
+After a short break, we gathered again at **1:00 PM in the auditorium** for a lecture by **Dr. Arashdeep Singh** on:  
+**"Food: A Pivotal Role in Student's Overall Wellness."**  
+The session was insightful — covering how diet affects our focus, mood, energy, and long-term health. It was a great reminder that wellness isn’t just mental or academic, but also physical.
+
+At **2:00 PM**, we had our final session of the day:  
+**"Induction Activity Launch by the Causmic Club."**  
+The club introduced itself, shared upcoming plans, and officially launched the activity phase of our induction program. It was great to see how much student-driven energy exists on campus.
