@@ -173,3 +173,22 @@ The session also touched on how millets can contribute to sustainable agricultur
 **Mathematics Lecture** – Prof. Gagandeep Kaur Lotey  
 In the same venue, Prof. Gagandeep Kaur Lotey conducted a mathematics lecture for CSE-A and CSE-B.  
 The session focused on core concepts relevant to our upcoming coursework, with clear explanations and problem-solving examples.
+
+
+---
+# Day 9 (10/08/2025)
+---
+### 09:30 AM – 10:30 AM  
+**Professional English Communication** – Prof. Manjot Kaur  
+Held in the W/S Seminar Hall, Prof. Manjot Kaur conducted an interactive session where each student gave a self-
+introduction in English.  
+The activity helped in improving communication confidence and allowed students to get to know each other better.
+
+### 10:30 AM – 11:30 AM  
+**Basic Electrical and Electronics Engineering (BEEE) Practical** – EC4 Lab  
+In this practical session, the professor provided readings and explanations for various experiments that we will be performing during the semester.  
+It served as a hands-on introduction to the BEEE lab environment and its equipment.
+
+### 01:30 PM – 02:30 PM  
+**Mathematics Lecture** – Cancelled  
+A mathematics class was scheduled after lunch, but the teacher was unavailable, and the lecture was cancelled.
