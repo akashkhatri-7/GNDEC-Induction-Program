@@ -136,3 +136,40 @@ Mr. Sekhon spoke about **STEM (Science, Technology, Engineering, and Mathematics
 ### Lecture by Dr. Lakhvir Singh Khana (Incharge – CML)
 Dr. Khana introduced the **Centre for Multifaceted Learning (CML)**, highlighting its role in offering diverse learning resources, workshops, and projects for students to explore beyond their core subjects.
 
+
+
+---
+# Day 7 (07/08/2025)
+---  
+### Morning Lecture Series – Auditorium  
+The morning session consisted of three back-to-back lectures:  
+
+1. **Lecture by Dr. Amit Kamra (Incharge – DMC)**  
+   Shared information about the **Data Management Centre** and how it supports the academic and administrative functions of GNDEC.  
+
+2. **Lecture by Dr. Parminder Singh (Dean – Student Welfare)**  
+   Spoke about the various **student welfare initiatives**, clubs, and facilities available to support personal growth and well-being.  
+
+3. **Lecture by Dr. Randhir Singh – “Conduct of Examination”**  
+   Explained in detail how examinations are conducted at GNDEC, covering the rules, evaluation process, and code of conduct students must follow.
+  
+### Session with Prof. Harminder Kaur (ECE Department) – ME Seminar Hall  
+CSE-A and CSE-B sections attended a lecture by Prof. Harminder Kaur, which focused on academic guidance and cross-departmental collaboration between CSE and ECE.  
+### Session with Prof. Gagandeep Kaur Lotey – ME Seminar Hall  
+The day concluded with a session by Prof. Gagandeep Kaur Lotey, who spoke about subject-specific guidance and offered tips for managing coursework effectively.
+
+
+---
+# Day 8 (08/08/2025)
+---
+
+### 09:00 AM – 10:30 AM  
+**Expert Lecture by Mrs. Shaffy Makkar** – “Millets: Super Food”  
+CSE-A and CSE-B attended an informative lecture in the TCC Seminar Hall by Mrs. Shaffy Makkar.  
+She spoke about the nutritional benefits of **millets**, their role in promoting a healthy lifestyle, and why they are considered a “super food.”  
+The session also touched on how millets can contribute to sustainable agriculture and better dietary habits.
+
+### 10:30 AM – 12:00 PM  
+**Mathematics Lecture** – Prof. Gagandeep Kaur Lotey  
+In the same venue, Prof. Gagandeep Kaur Lotey conducted a mathematics lecture for CSE-A and CSE-B.  
+The session focused on core concepts relevant to our upcoming coursework, with clear explanations and problem-solving examples.
