@@ -129,10 +129,10 @@ Held in Class F-106, Prof. Karan Bhalla began the session by explaining the **ma
 He then introduced the **first chapter of chemistry — Water Chemistry**, covering the basics and importance of the topic in engineering contexts.  
 ### English Lecture by Prof. Nisha  
 In this class, Prof. Nisha focused on **student introductions in English**. Each student was encouraged to speak about themselves, which helped build communication skills and confidence.
-**Lecture by Dr. Arvind Dhingra (Director – STEP & Incharge – TAC)** – Auditorium  
+**Lecture by Dr. Arvind Dhingra (Director – STEP & Incharge – TAC)**
 Dr. Arvind Dhingra delivered an engaging session in the auditorium, sharing valuable guidance related to **entrepreneurship, technical skill-building, and campus opportunities** available through STEP and TAC.  
 ### Expert Lecture by Mr. Jasvir Singh Sekhon (District Resource Person – STEM) – Auditorium  
 Mr. Sekhon spoke about **STEM (Science, Technology, Engineering, and Mathematics)** initiatives, explaining how students can integrate STEM skills into their academic and professional growth.  
-### Lecture by Dr. Lakhvir Singh Khana (Incharge – CML) – Auditorium  
+### Lecture by Dr. Lakhvir Singh Khana (Incharge – CML)
 Dr. Khana introduced the **Centre for Multifaceted Learning (CML)**, highlighting its role in offering diverse learning resources, workshops, and projects for students to explore beyond their core subjects.
 
