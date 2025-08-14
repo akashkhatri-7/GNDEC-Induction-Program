@@ -192,3 +192,25 @@ It served as a hands-on introduction to the BEEE lab environment and its equipme
 ### 01:30 PM – 02:30 PM  
 **Mathematics Lecture** – Cancelled  
 A mathematics class was scheduled after lunch, but the teacher was unavailable, and the lecture was cancelled.
+
+
+---
+# Day 10 (11/08/2025)
+---
+### 10:30 AM – 12:30 PM  
+**Professional English Communication Practical** – Prof. Manjot Kaur (ENG Lab)  
+In this session, Prof. Manjot Kaur played a video of **Dr. Shashi Tharoor** on YouTube using the projector.  
+After watching, each student was asked to explain the content in English as a presentation exercise, helping us improve comprehension, speaking skills, and confidence.
+
+### 01:30 PM – 02:30 PM  
+**Basic Electrical and Electronics Engineering Lecture** – Harminder Kaur Aulakh  
+A lecture covering fundamental concepts of BEEE for the CSA section, focusing on basic electrical principles and introductory topics in electronics.
+
+### 02:30 PM – 03:30 PM  
+**Mathematics Lecture**
+During this lecture, two 4th-year students visited to guide us.  
+One of them, from the Mechanical branch, is also the head of the **Genconian Craft Prix Workshop**. They shared valuable academic and extracurricular insights with the class.
+
+### 03:30 PM – 04:30 PM  
+**Mentoring Class & Professional Development Practical** 
+We interacted with the mentor assigned to the CSA-2 section. The session focused on guidance, clarifying doubts, and understanding how the mentoring system works to support students throughout the semester.
