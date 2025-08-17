@@ -119,7 +119,8 @@ During this session, we were asked to provide:
 The process was quick and organized, ensuring that every student completed their part for the upcoming college documentation.
 
 
-
+---
+#AFTER DAY 5, OUR REGULAR CLASSES BEGINS ACCORDING TO TIME TABLE GIVEN GNDEC WEBSITE
 ---
 # Day 6 (06/08/2025)
 ---
