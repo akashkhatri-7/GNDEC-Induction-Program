@@ -75,9 +75,7 @@ After the science session, **Dr. Priya Darshani ma'am** took over with a session
   - How to **introduce yourself effectively**
   - Small but powerful ways to build **self-motivation**
 - She encouraged us to think for ourselves and not just agree passively — that level of respect made the session feel like a two-way conversation.
-
-
-
+<img width="361" height="281" alt="Image" src="https://github.com/user-attachments/assets/7643210a-c16d-4b3a-9d87-57d1609df8ec" />
 
 
 ---
