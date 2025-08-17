@@ -174,7 +174,7 @@ The session focused on core concepts relevant to our upcoming coursework, with c
 
 
 ---
-# Day 9 (10/08/2025)
+# Day 9 (11/08/2025)
 ---
 ### 09:30 AM – 10:30 AM  
 **Professional English Communication** – Prof. Manjot Kaur  
@@ -193,7 +193,7 @@ A mathematics class was scheduled after lunch, but the teacher was unavailable, 
 
 
 ---
-# Day 10 (11/08/2025)
+# Day 10 (12/08/2025)
 ---
 ### 10:30 AM – 12:30 PM  
 **Professional English Communication Practical** – Prof. Manjot Kaur (ENG Lab)  
@@ -214,7 +214,7 @@ One of them, from the Mechanical branch, is also the head of the **Genconian Cra
 We interacted with the mentor assigned to the CSA-2 section. The session focused on guidance, clarifying doubts, and understanding how the mentoring system works to support students throughout the semester.
 
 ---
-# Day 11 (12/08/2025)
+# Day 11 (13/08/2025)
 ---
 ### 08:30 AM – 10:30 AM  
 **Chemistry Practical** – Prof. Karan Bhalla (Chem Lab)  
@@ -235,5 +235,5 @@ In the afternoon, Prof. Bhalla revised the **volumetric analysis** topic from th
 
 
 ---
-# Day 12 (13/08/2025)
+# Day 12 (14/08/2025)
 ---
