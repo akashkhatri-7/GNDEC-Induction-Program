@@ -256,3 +256,15 @@ In this session, Prof. Neeraj Kumar distributed the **marksheets of our previous
 ### 01:30 PM – 02:30 PM  
 **Basic Electrical and Electronics Engineering Tutorial** – Prof. Harminder Kaur Aulakh  
 The day concluded with a tutorial session where Prof. Aulakh gave **numerical problems to solve**, allowing us to practice and apply the theoretical concepts learned in class.
+
+
+
+
+---
+---
+---.#
+#INDUCTION ENDS
+---.#
+---
+---
+---
