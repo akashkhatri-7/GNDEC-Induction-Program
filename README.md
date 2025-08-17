@@ -216,21 +216,21 @@ We interacted with the mentor assigned to the CSA-2 section. The session focused
 ---
 # Day 11 (12/08/2025)
 ---
-# 08:30 AM – 10:30 AM  
-## Chemistry Practical – Prof. Karan Bhalla (Chem Lab)  
+### 08:30 AM – 10:30 AM  
+**Chemistry Practical** – Prof. Karan Bhalla (Chem Lab)  
 Prof. Karan Bhalla taught us **volumetric analysis** to soften hard water using the **EDTA method**.  
 The session included hands-on work in the chemistry lab, allowing us to understand the process step-by-step.
 
-# 10:30 AM – 12:30 PM  
-## Programming for Problem Solving Practical – Prof. Palak Sood (Computational Lab, EE Dept)  
+### 10:30 AM – 12:30 PM  
+**Programming for Problem Solving Practical** – Prof. Palak Sood (Computational Lab, EE Dept)  
 In this session, Prof. Palak Sood covered the **basic fundamentals of computers**, including:  
 - Input and output units  
 - Central Processing Unit (CPU)  
 - Arithmetic Logic Unit (ALU)  
 This served as an introduction to the components and operations that form the base of programming.
 
-# 01:30 PM – 02:30 PM  
-## Chemistry Lecture – Prof. Karan Bhalla  
+### 01:30 PM – 02:30 PM  
+**Chemistry Lecture** – Prof. Karan Bhalla  
 In the afternoon, Prof. Bhalla revised the **volumetric analysis** topic from the morning session and explained the **concept of water hardness** in more detail.
 
 
