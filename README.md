@@ -122,6 +122,7 @@ The process was quick and organized, ensuring that every student completed their
 ---
 #AFTER DAY 5, OUR REGULAR CLASSES BEGINS ACCORDING TO TIME TABLE GIVEN GNDEC WEBSITE
 ---
+---
 # Day 6 (06/08/2025)
 ---
 ### 09:30 AM – 10:30 AM  
@@ -215,3 +216,7 @@ One of them, from the Mechanical branch, is also the head of the **Genconian Cra
 ### 03:30 PM – 04:30 PM  
 **Mentoring Class & Professional Development Practical** 
 We interacted with the mentor assigned to the CSA-2 section. The session focused on guidance, clarifying doubts, and understanding how the mentoring system works to support students throughout the semester.
+
+---
+# Day 11 (12/08/2025)
+---
