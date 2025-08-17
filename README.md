@@ -44,8 +44,6 @@ At **2:00 PM**, we had our final session of the day:
 The club introduced itself, shared upcoming plans, and officially launched the activity phase of our induction program. It was great to see how much student-driven energy exists on campus.
 
 
-
-
 ---
 # Day 3 (02/08/2025) 
 ---
@@ -63,6 +61,7 @@ This was honestly one of the most **interesting and memorable sessions** of the 
   > *“Close your eyes — and truly see. Close your ears — and truly listen.”*  
 - He even has a **portable science lab in his car**, which was honestly mind-blowing.
 - What I loved the most: **it never felt like a lecture** — it felt like he came to *talk to us*, not *teach us*. And that made all the difference.
+<img width="361" height="281" alt="Image" src="https://github.com/user-attachments/assets/7643210a-c16d-4b3a-9d87-57d1609df8ec" />
 
 ###  11:00 AM – 01:00 PM  
 ###  Human Values Session with Dr. Priya Darshani  
@@ -75,7 +74,6 @@ After the science session, **Dr. Priya Darshani ma'am** took over with a session
   - How to **introduce yourself effectively**
   - Small but powerful ways to build **self-motivation**
 - She encouraged us to think for ourselves and not just agree passively — that level of respect made the session feel like a two-way conversation.
-<img width="361" height="281" alt="Image" src="https://github.com/user-attachments/assets/7643210a-c16d-4b3a-9d87-57d1609df8ec" />
 
 
 ---
