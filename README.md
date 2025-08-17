@@ -237,3 +237,22 @@ In the afternoon, Prof. Bhalla revised the **volumetric analysis** topic from th
 ---
 # Day 12 (14/08/2025)
 ---
+### 08:30 AM – 09:30 AM  
+**Chemistry Lecture – Prof. Karan Bhalla**  
+The session began with a quick **revision of the previous class topics**, reinforcing the key concepts covered earlier.
+
+### 09:30 AM – 10:30 AM  
+**Basic Electrical and Electronics Engineering Lecture** – Prof. Harminder Kaur Aulakh  
+Prof. Aulakh explained the **basic fundamentals and formulas** related to **resistance, inductance, and capacitance**, giving us a stronger foundation in electrical concepts.
+
+### 10:30 AM – 11:30 AM  
+**Professional English Communication Lecture** – Prof. Manjot Kaur  
+This lecture focused on the **basics of English communication**, highlighting essential skills needed for effective speaking and interaction.
+
+### 12:30 PM – 01:30 PM  
+**Mathematics Tutorial** – Prof. Neeraj Kumar  
+In this session, Prof. Neeraj Kumar distributed the **marksheets of our previous test** and provided feedback on performance, helping us understand our strengths and areas to improve.
+
+### 01:30 PM – 02:30 PM  
+**Basic Electrical and Electronics Engineering Tutorial** – Prof. Harminder Kaur Aulakh  
+The day concluded with a tutorial session where Prof. Aulakh gave **numerical problems to solve**, allowing us to practice and apply the theoretical concepts learned in class.
