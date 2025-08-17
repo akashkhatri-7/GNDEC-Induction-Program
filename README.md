@@ -24,7 +24,7 @@ The stage was vibrant, and the lineup of speakers made a big impression:
 - **Shri Ravindra Garg** (Chief Engineer, Municipal Corp.) — “Stay focused. Avoid distractions. Stay grounded.”
 - **Er. Rakesh Kumar** (1991 GNDEC alumnus, ADC Ludhiana) — A living example of where this journey can lead.
 - **Shri Ashok Singla** — Practical tips on managing finances and loans during college life
-
+![Image](https://github.com/user-attachments/assets/417810b6-6cc0-45e6-b09d-af0e2145a12f)
 
 
 ---
